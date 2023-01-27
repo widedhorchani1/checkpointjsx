@@ -1,0 +1,38 @@
+.App {
+  text-decoration:wavy;
+   display:flex;
+/*margin: 250px;*/
+   justify-content: space-around;
+     background-color: rgb(178, 243, 243);
+     border-radius: 8%;
+     box-shadow: 5px 5px 5px 5px rgb(178, 243, 243);
+     height: 450px;
+}
+img {
+  border-radius: 40%  
+}
+.image{
+  margin-top: 5%;
+}
+h1{
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(86, 49, 187);
+  size: 30px;
+}
+h2{
+  font-family:'Times New Roman', Times, serif;
+  
+}
+.Nom{
+  
+  margin-top: 19%;
+  
+}
+body{
+
+  margin: 15%;
+  border-radius: 8%;
+  background-color: blanchedalmond;
+
+}
+
